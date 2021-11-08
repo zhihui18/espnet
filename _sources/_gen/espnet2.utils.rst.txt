@@ -4,17 +4,6 @@ espnet2.utils package
 
 
 
-.. _espnet2.utils.yaml_no_alias_safe_dump:
-
-espnet2.utils.yaml_no_alias_safe_dump
--------------------------------------
-
-.. automodule:: espnet2.utils.yaml_no_alias_safe_dump
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-
 .. _espnet2.utils.config_argparse:
 
 espnet2.utils.config_argparse
@@ -43,6 +32,17 @@ espnet2.utils.griffin_lim
 -------------------------
 
 .. automodule:: espnet2.utils.griffin_lim
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+.. _espnet2.utils.__init__:
+
+espnet2.utils.__init__
+----------------------
+
+.. automodule:: espnet2.utils.__init__
     :members:
     :undoc-members:
     :show-inheritance:
@@ -92,12 +92,12 @@ espnet2.utils.build_dataclass
     :show-inheritance:
 
 
-.. _espnet2.utils.__init__:
+.. _espnet2.utils.yaml_no_alias_safe_dump:
 
-espnet2.utils.__init__
-----------------------
+espnet2.utils.yaml_no_alias_safe_dump
+-------------------------------------
 
-.. automodule:: espnet2.utils.__init__
+.. automodule:: espnet2.utils.yaml_no_alias_safe_dump
     :members:
     :undoc-members:
     :show-inheritance:
